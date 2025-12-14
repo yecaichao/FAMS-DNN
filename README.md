@@ -5,5 +5,5 @@
 conda create -n FAMS-DNN python=3.10  
 conda activate FAMS-DNN  
 pip install -r requirements.txt  
-cd FAMS-DNN  
+cd FAMS-DNN/fams_dnn    
 pip setup.py install   
